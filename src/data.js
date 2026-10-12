@@ -36,7 +36,7 @@ export const contactConfig = {
 }
 
 export const siteConfig = {
-  resumePath: "/resume/smit-limbasiya-resume.pdf",
+  resumePath: "/resume/Smit-Limbasiya-Resume.pdf",
   resumeFileName: "Smit-Limbasiya-Resume.pdf",
 }
 

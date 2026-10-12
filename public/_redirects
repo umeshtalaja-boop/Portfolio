@@ -1,1 +1,3 @@
-/*    /index.html   200
+/resume/*          /resume/:splat          200
+/project-covers/*  /project-covers/:splat  200
+/*                 /index.html             200
